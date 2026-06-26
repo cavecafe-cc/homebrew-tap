@@ -1,8 +1,8 @@
 class Loar < Formula
   desc "A lightweight cross-platform CLI utility that safely backs up and archives local-only files"
   homepage "https://github.com/cavecafe-cc/LoAr"
-  url "https://bin.cavecafe.cc/downloads/loar/loar-macos-arm64-v1.0.27.tar.gz"
-  sha256 "90dd1c0f825303096e280101380ab20c517d11ebb676d48e9d50c0d7defb8d41"
+  url "https://bin.cavecafe.cc/downloads/loar/loar-macos-arm64-v1.0.28.tar.gz"
+  sha256 "de90aca62cb3e77d75df6cf0e8da291d064e757ad95bf779da97b718b8b7e049"
   license "MIT"
 
   def install
